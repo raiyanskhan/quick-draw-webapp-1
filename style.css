@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(0, 204, 255);
+}
+
+#score
+{
+float: left;
+margin-left: 50px;
+color: rgb(255, 0, 0);
+}
+#timer
+{
+color: rgb(255, 0, 0);
+margin-right: 100px;
+float: right;
+}
+.sketches_draw
+{
+    color: maroon;
+}
+.canvas
+{
+    height: 600px;
+    width: 600px;
+    color: rgb(0, 136, 255);
+}
